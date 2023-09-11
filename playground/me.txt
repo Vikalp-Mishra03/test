@@ -1,5 +1,0 @@
-{{#user}}
-Name: Vikalp Mishra
-Skills: HTML, CSS, JS, React.js, Node.js 
-Email: mishravikalp896@gmail.com
-{{/user}}
